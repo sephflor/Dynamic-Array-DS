@@ -1,1 +1,1 @@
-# Dynamic-Array-DS
+# Dynamic-Array-DS.This code implements the Dynamic Array problem, maintaining n sequences and processing queries using XOR-based indexing. Type 1 queries append values to a sequence, while type 2 queries retrieve a value, update lastAnswer, and store it in the result, which is then printed line by line.
